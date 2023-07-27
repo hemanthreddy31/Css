@@ -1,1 +1,15 @@
 learning from youtube Deltabatch
+focus on 
+1 understanding
+2 bootstarap works on flex box
+3 pre-built components
+  buttons, forms navbar tab
+
+what is bootstrap ?
+"bootstrap is a powerful, feature-packed fronted tool kit . building antyhing =form prototype to produciton in minutes
+
+Benefites of bootstrap
+makes development faster and eaiser
+good choice of pre-built components
+good browser compatibility
+
